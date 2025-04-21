@@ -12,7 +12,7 @@
 ## 如何使用
 
 直接訪問 GitHub Pages 鏈接即可查看原型：
-https://[your-username].github.io/mcmarkets_prototype/
+https://seanchou1996.github.io/mcmarkets_prototype/
 
 ## 移動端測試
 
