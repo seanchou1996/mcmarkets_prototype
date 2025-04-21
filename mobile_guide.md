@@ -6,7 +6,7 @@
 
 ## 訪問方式
 
-1. **直接訪問**: 在手機瀏覽器中打開 https://[您的用戶名].github.io/mcmarkets_prototype/
+1. **直接訪問**: 在手機瀏覽器中打開 https://seanchou1996.github.io/mcmarkets_prototype/
 2. **二維碼掃描**: (如有需要，您可以從GitHub頁面生成QR碼)
 
 ## 建議測試路徑
